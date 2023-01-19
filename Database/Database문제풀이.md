@@ -107,3 +107,37 @@
  데이터 탐색뿐 아니라 저장 삭세 수정 삽입등에도 낮은 시간 복잡도를 가진다
 </details>
 
+**Q. DB이상현상에는 어떤 것이 있는가?**    
+<details>
+<summary>정답</summary>
+<br>
+
+</details>
+
+**Q. 스키마란 무엇인가?**    
+<details>
+<summary>정답</summary>
+<br>
+
+</details>
+
+**Q. 데드락은 무엇인고 방지할 수 있는 방법은 무엇인가?**    
+<details>
+<summary>정답</summary>
+<br>
+
+</details>
+
+**Q. No SQL은 무엇인고 언제 사용하는 것이 좋은가?**    
+<details>
+<summary>정답</summary>
+<br>
+
+</details>
+
+**Q. Data Lake 와 Data Warehouse, Data Mart는 어떤 차이를 두고 사용하는가?**    
+<details>
+<summary>정답</summary>
+<br>
+
+</details>
